@@ -1,4 +1,4 @@
-#Electron Resource Monitor
+# Electron Resource Monitor
 
 ## About
 This is a simple Electron app which tracks the performance of each CPU core and memory usage.
@@ -40,6 +40,6 @@ The full release version can be built with
 $ npm run relese
 ```
 
-##License
+## License
 
 [MIT](https://github.com/jlonardi/electron-resource-monitor/blob/master/LICENSE)
