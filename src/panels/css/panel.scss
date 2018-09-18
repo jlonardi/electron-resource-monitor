@@ -1,0 +1,17 @@
+.container {
+  background-color: rgba(78, 78, 78, 0.53);
+  padding: 10px 10px 15px 10px;
+  border: 1px rgba(255, 255, 255, 0.58) solid;
+  border-radius: 5px;
+  align-self: flex-end;
+  max-width: 280px;
+  min-width: 280px;
+  margin: 3px;
+}
+
+.label {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #e8e8e8;
+  font-size: 11pt;
+  padding-left: 7px;
+}
